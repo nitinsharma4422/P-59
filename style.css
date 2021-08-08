@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+}
+
+#sport {
+    margin-top: 150px;
+    background: linear-gradient(#4cc9f0 0%, #f72585 100%);
+    text-align: center;
+}
+
+#book {
+    margin-top: 150px;
+    background: linear-gradient(#f72585 0%, #F1D302 100%);
+    text-align: center;
+}
+
+#profile {
+    width: 400px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.menu {
+    position: fixed;
+    background: aliceblue;
+    width: 100%;
+    margin-top: 0;
+    top: 0px;
+    z-index: 10;
+}
+
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+}
+
+.links:hover {
+    font-size: 25px;
+    background-color: dodgerblue;
+    text-decoration: underline;
+}
